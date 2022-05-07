@@ -62,7 +62,7 @@ El quiz solo puede ser publicado por el administrador del quiz.
 - Si es posible: Implementación de un websocket, con el propósito de enviar notificaciones a los usuarios que finalizan un quiz mostrando su puntaje, además al administrador del quiz.
 - Si es posible: Websocket para gestionar el quiz al momento de realizar la prueba, Enviando las preguntas al usuario y delimitandolo con un tiempo límite.
 
-#INSTRUCCIONES PARA EJECUTAR APLICACIÓN
+ ## INSTRUCCIONES PARA EJECUTAR APLICACIÓN
 
 -INSTALAR ÚLTIMA VERSIÓN DE PYTHON
 
